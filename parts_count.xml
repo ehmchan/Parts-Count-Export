@@ -1,0 +1,2229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <events>
+    <event>
+      <id>PFC-G-11</id>
+      <description>PFC-G-11</description>
+      <parts-count>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>41.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>14.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>50.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>3.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>24.7500</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-G-12</id>
+      <description>PFC-G-12</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>23.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>47.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>80.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>76.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>1.7500</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>3.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>51.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>159.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>6.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-G-01</id>
+      <description>PFC-G-01</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>9.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>19.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>32.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>7.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-G-02</id>
+      <description>PFC-G-02</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>10.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>25.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>18.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(D &lt; = 3 inch)</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>4.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>5.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-G-03</id>
+      <description>PFC-G-03</description>
+      <parts-count>
+        <part>
+          <part-description>Reciprocating Compressors</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>13.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>14.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(D &lt; = 3 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-G-04</id>
+      <description>PFC-G-04</description>
+      <parts-count>
+        <part>
+          <part-description>Reciprocating Compressors</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>15.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>23.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(D &lt; = 3 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>4.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-01</id>
+      <description>PFC-L-01</description>
+      <parts-count>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>26.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>37.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>8.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>12.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>6.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-03</id>
+      <description>PFC-L-03</description>
+      <parts-count>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>28.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>18.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>52.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(D &lt; = 3 inch)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>21.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>1.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>5.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-04</id>
+      <description>PFC-L-04</description>
+      <parts-count>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>20.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>21.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>35.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>8.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-05</id>
+      <description>PFC-L-05</description>
+      <parts-count>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>11.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>26.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(D &lt; = 3 inch)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>7.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-06</id>
+      <description>PFC-L-06</description>
+      <parts-count>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>53.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>24.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>52.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>12.5000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>13.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>12.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>15.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>2.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-12</id>
+      <description>PFC-L-12</description>
+      <parts-count>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>32.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>11.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>32.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>11.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>7.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>5.2500</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-20</id>
+      <description>PFC-L-20</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>32.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>17.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>53.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>87.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>6.2500</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>7.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>13.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>16.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>16.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-22</id>
+      <description>PFC-L-22</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>31.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>26.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>14.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>40.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>2.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>16.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>9.2500</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-23</id>
+      <description>PFC-L-23</description>
+      <parts-count>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>21.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>38.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>3.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>6.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-25</id>
+      <description>PFC-L-25</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>18.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>20.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>55.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>12.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>35.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-34</id>
+      <description>PFC-L-34</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>44.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>18.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>82.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>87.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>7.5000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>9.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>16.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>23.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>17.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-35</id>
+      <description>PFC-L-35</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>48.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>24.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>38.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>145.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>20.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>18.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>13.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>24.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-36</id>
+      <description>PFC-L-36</description>
+      <parts-count>
+        <part>
+          <part-description>Crude Oil Storage Tank</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>29.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>7.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>12.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-37</id>
+      <description>PFC-L-37</description>
+      <parts-count>
+        <part>
+          <part-description>Crude Oil Storage Tank</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>23.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>1.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>3.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-38</id>
+      <description>PFC-L-38</description>
+      <parts-count>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>74.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>75.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>53.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>98.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(D &lt; = 3 inch)</part-description>
+          <count>7.5000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>24.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>36.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>14.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>15.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-40</id>
+      <description>PFC-L-40</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>22.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>20.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>8.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>65.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>15.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>19.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>10.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>11.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-46</id>
+      <description>PFC-L-46</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>76.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>63.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>186.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>90.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>20.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>58.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>50.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>9.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-47</id>
+      <description>PFC-L-47</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>14.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-48</id>
+      <description>PFC-L-48</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>14.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(D &lt; = 3 inch)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-49</id>
+      <description>PFC-L-49</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>14.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-59</id>
+      <description>PFC-L-59</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>12.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>33.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>32.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>7.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>5.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-51</id>
+      <description>PFC-L-51</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-52</id>
+      <description>PFC-L-52</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-53</id>
+      <description>PFC-L-53</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>5.0000e-01</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-54</id>
+      <description>PFC-L-54</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>9.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-50</id>
+      <description>PFC-L-50</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>49.5000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>56.5000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>57.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>45.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>1.5000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>3.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>17.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>7.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-56</id>
+      <description>PFC-L-56</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>11.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>7.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>4.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-57</id>
+      <description>PFC-L-57</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>11.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>7.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>4.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-58</id>
+      <description>PFC-L-58</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>13.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>7.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>3.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-62</id>
+      <description>PFC-L-62</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>21.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>28.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>36.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(D &lt; = 3 inch)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>14.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>5.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-63</id>
+      <description>PFC-L-63</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-33</id>
+      <description>PFC-L-33</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>23.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>41.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>67.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>9.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>23.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>6.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-41</id>
+      <description>PFC-L-41</description>
+      <parts-count>
+        <part>
+          <part-description>Crude Oil Storage Tank</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>8.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>12.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>7.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>3.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-42</id>
+      <description>PFC-L-42</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>8.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>12.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>28.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>4.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>2.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-43</id>
+      <description>PFC-L-43</description>
+      <parts-count>
+        <part>
+          <part-description>Crude Oil Storage Tank</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>11.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>28.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>16.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>11.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>7.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-44</id>
+      <description>PFC-L-44</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>11.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>18.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>27.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>6.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>10.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>7.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-45</id>
+      <description>PFC-L-45</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>52.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>29.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>64.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>26.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>14.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>15.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>14.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-64</id>
+      <description>PFC-L-64</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>10.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-65</id>
+      <description>PFC-L-65</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>10.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-66</id>
+      <description>PFC-L-66</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>22.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>9.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-69</id>
+      <description>PFC-L-69</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>64.5000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>32.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>36.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>99.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>22.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>24.7500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>23.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-70</id>
+      <description>PFC-L-70</description>
+      <parts-count>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>52.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>27.5000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-71</id>
+      <description>PFC-L-71</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>14.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>2.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-72</id>
+      <description>PFC-L-72</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>14.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-73</id>
+      <description>PFC-L-73</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>14.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>2.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-74</id>
+      <description>PFC-L-74</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>16.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>3.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-75</id>
+      <description>PFC-L-75</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>16.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>3.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-76</id>
+      <description>PFC-L-76</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>16.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>3.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-77</id>
+      <description>PFC-L-77</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>15.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>24.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>2.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>28.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>3.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>9.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-78</id>
+      <description>PFC-L-78</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>4.0000</count>
+        </part>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>100.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>128.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>93.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>134.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>27.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>57.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>12.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>11.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-39</id>
+      <description>PFC-L-39</description>
+      <parts-count>
+        <part>
+          <part-description>Crude Oil Storage Tank</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>13.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>7.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>36.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>12.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>1.2500</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>25.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-55</id>
+      <description>PFC-L-55</description>
+      <parts-count>
+        <part>
+          <part-description>Pressure Vessels</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>12.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>7.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>6.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>4.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>1.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-61</id>
+      <description>PFC-L-61</description>
+      <parts-count>
+        <part>
+          <part-description>Centrifugal Pump (double seal)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>22.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>20.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>28.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>3.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>11.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>9.0000</count>
+        </part>
+      </parts-count>
+    </event>
+    <event>
+      <id>PFC-L-68</id>
+      <description>PFC-L-68</description>
+      <parts-count>
+        <part>
+          <part-description>Pig Receivers &amp; Launchers</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Filters</part-description>
+          <count>1.0000</count>
+        </part>
+        <part>
+          <part-description>Instruments</part-description>
+          <count>30.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &lt; = 3 inch)</part-description>
+          <count>11.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(3 &lt; D &lt; 11)</part-description>
+          <count>38.0000</count>
+        </part>
+        <part>
+          <part-description>Flanges(D &gt; 11 inch)</part-description>
+          <count>10.0000</count>
+        </part>
+        <part>
+          <part-description>ESD Valves(3 inch &lt; D)</part-description>
+          <count>2.5000</count>
+        </part>
+        <part>
+          <part-description>Other Actuated Valves(3 inch &lt; D)</part-description>
+          <count>7.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &lt; = 3 inch)</part-description>
+          <count>5.0000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(3 &lt; D &lt; 11)</part-description>
+          <count>17.5000</count>
+        </part>
+        <part>
+          <part-description>Manual Valves(D &gt; 11 inch)</part-description>
+          <count>3.5000</count>
+        </part>
+      </parts-count>
+    </event>
+  </events>
+</data>
